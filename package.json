@@ -11,21 +11,13 @@
     "lint:fix": "eslint ./src ./test --ext .ts --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JvPelai/node-typescript-api.git"
-  },
   "keywords": [
     "nodejs",
     "typescript",
     "api"
   ],
-  "author": "João Victor Pelai",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JvPelai/node-typescript-api/issues"
-  },
-  "homepage": "https://github.com/JvPelai/node-typescript-api#readme",
   "devDependencies": {
     "@types/module-alias": "^2.0.0",
     "@types/node": "^14.14.37",
